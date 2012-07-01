@@ -1,5 +1,5 @@
 Symfony勉強会 #6 レポート
-========================================================
+=========================
 
 6月30日、VOYAGE GROUPにて開催されました。
 
@@ -22,4 +22,25 @@ Symfony勉強会 #6 レポート
   - [@brtriver](http://twitter.com/brtriver) Zombie.jsで始めるサーバーサイドブラウザテスト
 
   - [@hidenorigoto](http://twitter.com/hidenorigoto) [オブジェクトの振舞を明確化するためのモックについて](https://speakerdeck.com/u/hidenorigoto/p/symfony6)
+
+ワークショップ
+--------------
+
+  - [@ganchiku](http://twitter.com/ganchiku) [Symfony ワークショップ ~ 基礎からテストまで ~](http://www.slideshare.net/ganchiku/symfony-13501061)
+
+  - [@chisei](http://twitter.com/chisei) Silex ワークショップ
+
+ライトニングトーク
+------------------
+
+  - [@taka512](http://twitter.com/taka512) Symfony2を使ってみて 
+  - [@karakaram](http://twitter.com/karakaram) Symfony2のコントローラのテストを短くしようと頑張ってみた
+  - [@_nisigori](http://twitter.com/_nisigori) 僕とCIとときどきSymfony
+  - [@hnw](http://twitter.com/hnw) [PHPで時間旅行をする方法](http://www.slideshare.net/hnw/php-13502189)
+
+懇親会セッション
+----------------
+
+  - [@korym](http://twitter.com/korym)  
+
 
