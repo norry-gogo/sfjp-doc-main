@@ -43,7 +43,7 @@ Symfony勉強会 #6 レポート
 
   - [@taka512](http://twitter.com/taka512) - Symfony2を使ってみて 
   - [@karakaram](http://twitter.com/karakaram) - Symfony2のコントローラのテストを短くしようと頑張ってみた
-  - [@_nisigori](http://twitter.com/_nisigori) - 僕とCIとときどきSymfony
+  - [@_nishigori](http://twitter.com/_nishigori) - 僕とCIとときどきSymfony
   - [@hnw](http://twitter.com/hnw) - [PHPで時間旅行をする方法](http://www.slideshare.net/hnw/php-13502189)
 
 
