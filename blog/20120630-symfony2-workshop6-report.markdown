@@ -1,13 +1,15 @@
 Symfony勉強会 #6 レポート
 =========================
 
-6月30日、VOYAGE GROUPにて開催されました。
+6月30日、[VOYAGE GROUP](http://voyagegroup.com/)様に会場提供頂き Symfony勉強会 #6 が開催されました。
 
 「フレームワークに縛られない技術とそれを実践している一歩先ゆくエンジニアたちの声」をテーマに、Symfonyに興味がある方/実際に触ってみたい方、Webアプリケーションの設計・実装方法について深く知りたい方を対象とした複数のセッション、ワークショップ、LTが行われました。
 
 
 セッション
 ----------
+
+より良いソフトウェア開発を目指す為にどのような事に着目すると良いのか、またSymfonyのアーキテクチャがどのように適しているのか等、非常に参考になりました。
 
   - [@hidenorigoto](http://twitter.com/hidenorigoto) [一歩先ゆくエンジニアから見たSymfony](https://speakerdeck.com/u/hidenorigoto/p/symfony6-symfony)
 
@@ -23,24 +25,42 @@ Symfony勉強会 #6 レポート
 
   - [@hidenorigoto](http://twitter.com/hidenorigoto) [オブジェクトの振舞を明確化するためのモックについて](https://speakerdeck.com/u/hidenorigoto/p/symfony6)
 
+
 ワークショップ
 --------------
+
+個々につまずくポイントが違ったりで進行はゆっくりでしたが、近くの人同士で教え合ったりする場面がうかがえたりとあっという間の楽しい時間でした。
 
   - [@ganchiku](http://twitter.com/ganchiku) [Symfony ワークショップ ~ 基礎からテストまで ~](http://www.slideshare.net/ganchiku/symfony-13501061)
 
   - [@chisei](http://twitter.com/chisei) Silex ワークショップ
 
+
 ライトニングトーク
 ------------------
+
+短い時間の中にギュッと詰め込まれた楽しいLTに会場も盛り上がりました。
 
   - [@taka512](http://twitter.com/taka512) Symfony2を使ってみて 
   - [@karakaram](http://twitter.com/karakaram) Symfony2のコントローラのテストを短くしようと頑張ってみた
   - [@_nisigori](http://twitter.com/_nisigori) 僕とCIとときどきSymfony
   - [@hnw](http://twitter.com/hnw) [PHPで時間旅行をする方法](http://www.slideshare.net/hnw/php-13502189)
 
+
 懇親会セッション
 ----------------
 
-  - [@korym](http://twitter.com/korym)  
+ホワイトボードを使っての熱い抗議スタイルのセッションでした。
+全面に書かいた「Tell, Don't Ask.」の文字、実は油性マジックで書いてしまったもので消せない、どうしよう？というようなハプニングもありましたが、聴講者全員の記憶に「Tell, Don't Ask.」と刻まれた事は間違いないでしょう。
+
+  - [@korym](http://twitter.com/korym) 懇親会セッション 
+
+
+懇親会LT
+--------
+
+アルコールも程よくまわり、楽しげな雰囲気の中で思い思いのトークが繰り広げられました。
+
+
 
 
